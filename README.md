@@ -14,6 +14,8 @@ The dashboard helps identify sales trends, category performance, and regional in
 - Excel Formulas (TEXT, YEAR, DATE)
 - CSV Data Handling
 
+  ![image alt](Screenshot 2026-01-30 131027.png)
+
 ---
 
 ## 📂 Dataset
